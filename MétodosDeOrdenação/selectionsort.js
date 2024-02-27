@@ -1,4 +1,4 @@
-function selectionsort(){
+function heapsort(){
     let vetor =[5,55,80,1,7]
     alert(`Vetor desordenado: ${vetor}`)
     let menor
@@ -15,4 +15,4 @@ function selectionsort(){
     }
     alert(`Vetor ordenado: ${vetor}`)
 }
-selectionsort()
+heapsort()
