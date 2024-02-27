@@ -1,4 +1,4 @@
-function bubblesort (vetor){
+function bubblesort (){
     let vetor =[5,55,80,1,7]
     alert(`Vetor desordenado: ${vetor}`)
     let aux
